@@ -5,6 +5,7 @@ html {
 }
 
 body {
+    padding-block-end: 3em;
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
@@ -66,8 +67,10 @@ img { max-inline-size: 100%; }
 /* === CONTENT === */
 .blogpost__content { padding: 2em; }
 
+/* === BODY === */
 .blogpost__body {
     display: inline-block;
+    margin-block-start: .5em;
     inline-size: 100%;
 }
 
@@ -75,5 +78,3 @@ img { max-inline-size: 100%; }
     margin-block-end: .5em;
     text-align: center;
 }
-
-.blogpost__body { margin-block-start: .5em; }
