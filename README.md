@@ -7,9 +7,13 @@ This is the fifth project from Juan Pablo's course of [CSS Grid and Flexbox](htt
 
 ## Table of contents
 * [Preview](#preview)
+* [What I learned](#what-i-learned)
 * [Open Graph](#open-graph)
     - [Facebook](#facebook)
     - [Twitter](#twitter)
+
+## What I learned
+This time I didn't have too much opportunity to learn new things because of the low complexity of the project, but in the next one, I have planned to start learning [Tailwind CSS](https://tailwindcss.com/) and implement it in projects that are left from this course.
 
 ## Preview
 ![](readme/screenshot.png)
