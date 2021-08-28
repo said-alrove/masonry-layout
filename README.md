@@ -1,4 +1,4 @@
-# [masonry-layout](https://masory-layout-11bdhs.netlify.app/)
+# [masonry-layout](https://masonry-layout-11bdhs.netlify.app/)
 This is the fifth project from Juan Pablo's course of [CSS Grid and Flexbox](https://www.udemy.com/course/css-grid-y-flexbox-la-guia-definitiva-crea-10-proyectos/).
 
 > **Note:** this was an easy project for practicing with the Masonry-layout that's well known because is the layout Pinterest uses in their application to show the image results... something to remark is that this design isn't totally possible with CSS only (in this case Flexbox gave me a hand, but there's a huge problem though because you have to hit the height of the main-container to get the wished result by testing and if you add more elements you'll have to test another height that might fit with it), but in the future Grid could be the solution to this (with the **grid-template-rows** property set to **masonry**), but because there's still a few issues with that implementation, today the best option is directly with Javascript.
